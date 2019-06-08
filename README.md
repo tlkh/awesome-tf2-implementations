@@ -25,8 +25,8 @@ List of official and unofficial TensorFlow 2.0 implementations of models.
 * [CartoonGAN (mnicnc404/CartoonGan-tensorflow)](https://github.com/mnicnc404/CartoonGan-tensorflow)
 * [CycleGAN (LynnHo/CycleGAN-Tensorflow-2)](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
 * [DCGAN, LSGAN, WGAN-GP, DRAGAN (LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
-* [NMT with Attention](https://github.com/thisisiron/nmt-attention-tf)
-* [BioBERT + GPT2 for QA](https://github.com/re-search/DocProduct)
+* [NMT with Attention (thisisiron/nmt-attention-tf)](https://github.com/thisisiron/nmt-attention-tf)
+* [BioBERT + GPT2 for QA (re-search/DocProduct)](https://github.com/re-search/DocProduct)
 
 Other repositories with a bunch of examples each:
 
